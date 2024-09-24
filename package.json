@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.11"
+    "ethers": "5.7.2",
+    "graphql": "^16.4.0",
+    "next": "14.2.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "autoprefixer": "^10.4.5",
+    "dotenv": "^16.0.0",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
   }
 }
